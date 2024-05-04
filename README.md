@@ -1,2 +1,5 @@
-# requirement.txt
-kkkkkkkkk
+this is chat appliocation
+emoji
+vibrant
+colours
+type caption
